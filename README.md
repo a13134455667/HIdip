@@ -1,2 +1,2 @@
-# -HIdip
-简单开启黑苹果HIdip
+
+`/System/Library/Displays/Contents/Resources/Overrides/`

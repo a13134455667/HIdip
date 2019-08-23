@@ -29,9 +29,9 @@
   
   `49297 ==> c091`
 
-  文件夹名就改为 DisplayVendorID-410c
+  新建文件夹改名为 **DisplayVendorID-410c**
   
-  文件名就改为 DisplayProductID-c091
+  下载 **DisplayProductID-a0a4** 改为 **DisplayProductID-c091** 放入 **DisplayVendorID-410c** 文件夹
   
   然后把修改好的文件夹放入目录：
   
